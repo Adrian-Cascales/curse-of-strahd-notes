@@ -92,7 +92,7 @@
     "zoomFeatures": true,
     "id": "Barovia",
     "bounds": "",
-    "unit": "meters",
+    "unit": "",
     "lat": "11673,5",
     "long": "16559,5",
     "draw": "true",
